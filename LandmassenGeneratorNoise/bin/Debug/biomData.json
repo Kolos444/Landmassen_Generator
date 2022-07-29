@@ -1,0 +1,154 @@
+{
+  "{
+  "Key": "Deep Ocean",
+  "Value": {
+    "R": 0,
+    "G": 0,
+    "B": 139,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "DarkBlue"
+  }
+}": [
+    0,
+    0.100000001,
+    0,
+    1
+  ],
+  "{
+  "Key": "Ocean",
+  "Value": {
+    "R": 0,
+    "G": 0,
+    "B": 255,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "Blue"
+  }
+}": [
+    0.100000001,
+    0.200000003,
+    0,
+    1
+  ],
+  "{
+  "Key": "Shoreline",
+  "Value": {
+    "R": 0,
+    "G": 255,
+    "B": 255,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "Aqua"
+  }
+}": [
+    0.200000003,
+    0.219999999,
+    0,
+    1
+  ],
+  "{
+  "Key": "Beach",
+  "Value": {
+    "R": 0,
+    "G": 255,
+    "B": 255,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "Aqua"
+  }
+}": [
+    0.219999999,
+    0.239999995,
+    0,
+    1
+  ],
+  "{
+  "Key": "Desert",
+  "Value": {
+    "R": 244,
+    "G": 164,
+    "B": 96,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "SandyBrown"
+  }
+}": [
+    0.239999995,
+    0.400000006,
+    0,
+    0.100000001
+  ],
+  "{
+  "Key": "Savannah",
+  "Value": {
+    "R": 218,
+    "G": 165,
+    "B": 32,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "Goldenrod"
+  }
+}": [
+    0.239999995,
+    0.400000006,
+    0.100000001,
+    0.200000003
+  ],
+  "{
+  "Key": "Grasslands",
+  "Value": {
+    "R": 0,
+    "G": 128,
+    "B": 0,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "Green"
+  }
+}": [
+    0.239999995,
+    0.400000006,
+    0.200000003,
+    0.300000012
+  ],
+  "{
+  "Key": "Hills",
+  "Value": {
+    "R": 139,
+    "G": 69,
+    "B": 19,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "SaddleBrown"
+  }
+}": [
+    0.400000006,
+    0.5,
+    0,
+    0.300000012
+  ]
+}
